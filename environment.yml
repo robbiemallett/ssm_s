@@ -10,7 +10,6 @@ dependencies:
   - six
   - xarray
   - pandas
-  - pillow
 libraries:
 - name: PIL
   version: latest
