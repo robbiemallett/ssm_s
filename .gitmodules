@@ -1,0 +1,3 @@
+[submodule "smrt"]
+	path = smrt
+	url = https://github.com/smrt-model/smrt
