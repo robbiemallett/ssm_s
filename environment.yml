@@ -1,6 +1,6 @@
 name: ssmi_sensitivity
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
@@ -9,4 +9,4 @@ dependencies:
   - mpmath
   - six
   - xarray
-  - pandas
+  - pandas=1.1.1
