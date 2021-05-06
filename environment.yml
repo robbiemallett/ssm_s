@@ -1,0 +1,16 @@
+name: IBA
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - scipy
+  - mpmath
+  - six
+  - xarray
+
+prefix: /home/robbie/anaconda3/envs/IBA
+
+command: ["git","clone","https://github.com/smrt-model/smrt"]
