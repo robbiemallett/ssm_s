@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - pandas
+  - pandas=1.2.4
   - matplotlib
   - ipywidgets
   - scipy
@@ -12,5 +12,3 @@ dependencies:
   - xarray
 
 prefix: /home/robbie/anaconda3/envs/IBA
-
-command: ["git","clone","https://github.com/smrt-model/smrt"]
