@@ -1,14 +1,12 @@
-name: IBA
+name: ssmi_sensitivity
 channels:
   - defaults
 dependencies:
   - numpy
-  - pandas=1.2.4
   - matplotlib
   - ipywidgets
   - scipy
   - mpmath
   - six
   - xarray
-
-prefix: /home/robbie/anaconda3/envs/IBA
+  - pandas
